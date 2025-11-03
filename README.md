@@ -63,7 +63,7 @@ Me gusta aprender por mi cuenta, experimentar.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2500&pause=1200&color=FF2FD2&center=true&vCenter=true&width=450&lines=%F0%9F%93%AB+Cont%C3%A1ctame" alt="Contáctame (typing)" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2500&pause=1200&color=FF2FD2&center=true&vCenter=true&width=450&lines=%F0%9F%93%AB+Cont%C3%A1ctame" alt="Formas de contacto(typing)" />
   </a>
 </div>
 
@@ -76,6 +76,9 @@ Me gusta aprender por mi cuenta, experimentar.
   <a href="https://github.com/michaelruiz27s" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
+<a href="Correo:ruizmichael466@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail: Michael Ruiz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 </p>
 
 </details>

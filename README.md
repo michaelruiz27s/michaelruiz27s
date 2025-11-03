@@ -24,8 +24,8 @@
 <h4 style="color:#00F5FF">💻 Sobre mí</h4>
 
 Soy un estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería con un gran interés por la tecnología y la ciberseguridad.  
-Me apasiona el hacking ético y la exploración de sistemas, siempre buscando entender cómo funcionan y cómo pueden mejorarse.  
-Me gusta aprender por mi cuenta, experimentar y seguir creciendo en el mundo de la seguridad informática.
+Me apasiona el hacking  y la exploración de sistemas, siempre buscando entender cómo funcionan y cómo pueden mejorarse.  
+Me gusta aprender por mi cuenta, experimentar.
 
 
 

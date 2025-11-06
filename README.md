@@ -51,13 +51,12 @@ Me gusta aprender por mi cuenta, experimentar.
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
-
 </details>
 
 
@@ -70,19 +69,22 @@ Me gusta aprender por mi cuenta, experimentar.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-ruiz-234a9037b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
+      alt="LinkedIn"/>
   </a>
   <a href="https://github.com/michaelruiz27s" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+   <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
   </a>
-<a href="Correo:ruizmichael466@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: Michael Ruiz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a target="_blank" href="mailto:ruizmichael466@gmail.com">
+  <img src="https://img.icons8.com/bubbles/50/000000/gmail.png"></img></a>
 </a>
 </p>
 
 </details>
 
+
+
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
 </div>
 
